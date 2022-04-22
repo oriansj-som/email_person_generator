@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Email_Person_Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "--release 22.04.15 --database ..\\example.db --cc foo@foo.com --assignee NaredlaS --sig-file signature.html"
+    }
+  }
+}
